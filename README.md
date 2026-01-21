@@ -1,8 +1,8 @@
-# newcoder
+# Analyst Enthusiast
 
 # Hello, I'm Kyi Phyu Shyun Latt(You can call me Kate)! 👋
 
-I'm a passionate student of Information and Communication Technology (ICT) at Rangsit University in Bangkok, on a thrilling journey to become a Data Analyst. I love exploring the world of data, and every new project brings a fresh wave of excitement and learning.
+I am a recent graduate in Information and Communication Technology (ICT) from Rangsit University in Bangkok, aspiring to build a strong career as an Analyst. I am highly interested in exploring data, business processes, systems, users, and products, and I enjoy continuously learning through hands-on projects and real-world problem solving.
 
 # 🛠️ Technologies & Tools
 
@@ -22,6 +22,6 @@ I'm currently diving deep into the world of data, uncovering insights and trends
 
 # 📫 How to Reach Me
 
-Email: wwwyuna283@gmail.com
+Email: kate.psl39@gmail.com
 
-Feel free to reach out to me for collaborations, project discussions, or just a chat about data analytics!
+Feel free to reach out to me for collaborations, project discussions, or just a chat about analytics!
